@@ -1,0 +1,40 @@
+
+
+
+html, body{
+    
+}
+
+#header::before {
+    content: '';
+   
+    width: var(--header-width);
+   
+}
+
+
+
+#newsection1{
+    width: var(--header-width);
+}
+
+#newsection3{
+    width: var(--header-width);
+}
+
+
+#section4{
+    width: var(--header-width);
+}
+
+#section5{
+    width: var(--header-width);
+}
+
+#section6{
+    width: var(--header-width);
+}
+
+#section7{
+    width: var(--header-width);
+}
